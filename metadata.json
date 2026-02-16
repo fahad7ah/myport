@@ -1,0 +1,8 @@
+{
+  "name": "Fahad Ahmed Ornob Portfolio",
+  "description": "A sophisticated, Golden Ratio-inspired portfolio for Fahad Ahmed Ornob, featuring an AI-powered assistant and mathematically balanced design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
